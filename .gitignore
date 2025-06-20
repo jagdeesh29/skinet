@@ -44,3 +44,5 @@ Infrastructure/obj/Debug/net8.0/Infrastructure.GlobalUsings.g.cs
 Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
 Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll
 Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
+Infrastructure/obj/Debug/net8.0/Infrastructure.sourcelink.json
+Core/obj/Debug/net8.0/Core.sourcelink.json
